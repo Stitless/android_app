@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451445814184",
+    "firebase_url": "https://ecommerce-b765c.firebaseio.com",
+    "project_id": "ecommerce-b765c",
+    "storage_bucket": "ecommerce-b765c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451445814184:android:f981476392e587a5ae239d",
+        "android_client_info": {
+          "package_name": "stitless.ecommerce.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451445814184-vid22hgtm789apa9g6kfn3u6hhh1firv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "stitless.ecommerce.com",
+            "certificate_hash": "c16e4a4377aae3814c6aeab7fda29659a355d146"
+          }
+        },
+        {
+          "client_id": "451445814184-avg0b7riueon5prk4i8s4a1acga64rjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3YgFfQW6tzexhsVkAImkt2TzzD_MkxxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451445814184-avg0b7riueon5prk4i8s4a1acga64rjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
